@@ -1,0 +1,5 @@
+com/test/TestNGMavenJenkins/pages/HomePage.class
+com/test/TestNGMavenJenkins/SuiteConfiguration.class
+com/test/TestNGMavenJenkins/SampleTestNgTest.class
+com/test/TestNGMavenJenkins/TestNgTestBase.class
+com/test/TestNGMavenJenkins/pages/Page.class
